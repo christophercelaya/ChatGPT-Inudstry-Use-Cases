@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '284e4771cf4646ceb14da493e7307540',
+  rootNotionPageId: '005b0bba9f5a4df48f19967891afd547',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Notion Website Test',
-  domain: 'notionsite',
+  name: 'ChatGPT Use Cases',
+  domain: 'notiionsite',
   author: 'Christopher Celaya',
 
   // open graph metadata (optional)
-  description: 'Example Notion Site',
+  description: 'List of industries, subjects, topics, etc.',
 
   // social usernames (optional)
   twitter: '',
